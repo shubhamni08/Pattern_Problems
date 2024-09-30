@@ -12,7 +12,6 @@ public class Pattern13 {
 			System.out.println();
 		}
 	}
-
 }
 //1 
 //2 3 
