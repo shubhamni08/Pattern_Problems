@@ -14,7 +14,6 @@ public class Pattern5 {
 				System.out.print("*");
 			}
 			System.out.println();
-			
 		}
 	}
 }
