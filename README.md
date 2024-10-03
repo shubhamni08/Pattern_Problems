@@ -10,7 +10,7 @@
 
 <h2 id="problem-description">Problem Description</h2>
 <p>
-    Write a program that prints the following pattern:
+    Pattern 1- Write a program that prints the following pattern:
 </p>
 <pre>
 *
@@ -22,6 +22,70 @@
 <p>
     The number of lines and stars should be based on user input.
 </p>
+
+<p>
+    Pattern 2
+</p>
+<pre>
+* * * * *
+* * * *
+* * * 
+* * 
+*
+</pre>
+
+<p>
+    Pattern 3
+</p>
+<pre>
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * * 
+* * 
+*
+</pre>
+
+<p>
+    Pattern 4
+</p>
+<pre>
+*
+* * 
+* * * 
+* * * *
+* * * * *
+</pre>
+
+<p>
+    Pattern 5
+</p>
+<pre>
+* * * * *
+* * * *
+* * *
+* * 
+*  
+</pre>
+
+<p>
+    Pattern 6
+</p>
+<pre>
+        *
+      * * 
+    * * * 
+  * * * *
+* * * * *
+  * * * *
+    * * *
+      * * 
+        *  
+</pre>
+
 
 <h2 id="how-to-run">How to Run</h2>
 <ol>
