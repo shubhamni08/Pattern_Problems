@@ -137,9 +137,6 @@ _* * * * *
      * 
 </pre>
 
-
-
-
  <h2 id="how-to-run">How to Run</h2>
 <ol>
     <li><strong>Clone the repository</strong>:
