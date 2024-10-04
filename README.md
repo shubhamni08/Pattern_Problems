@@ -86,8 +86,61 @@
         *  
 </pre>
 
+<p>
+    Pattern 7
+</p>
+<pre>
+       * 
+      * * 
+     * * * 
+    * * * * 
+   * * * * * 
+  * * * * * * 
+</pre>
+<p>
+    Pattern 8
+</p>
+<pre>
+  * * * * * * 
+   * * * * * 
+    * * * * 
+     * * * 
+      * * 
+       * 
+</pre>
+<p>
+    Pattern 9
+</p>
+<pre>
+* * * * * * 
+_* * * * * 
+__* * * * 
+___* * * 
+____* * 
+_____* 
+_____* 
+____* * 
+___* * * 
+__* * * * 
+_* * * * *  
+</pre>
+<p>
+    Pattern 10
+</p>
+<pre>
+     * 
+    * * 
+   * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+</pre>
 
-<h2 id="how-to-run">How to Run</h2>
+
+
+
+ <h2 id="how-to-run">How to Run</h2>
 <ol>
     <li><strong>Clone the repository</strong>:
         <pre>git clone https://github.com/username/pattern-problem.git</pre>
