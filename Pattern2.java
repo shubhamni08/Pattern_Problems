@@ -13,7 +13,6 @@ public class Pattern2 {
 		}
 
 	}
-
 }
 //*****
 //****
