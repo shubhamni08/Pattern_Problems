@@ -7,7 +7,6 @@ public class Pattern14 {
 		
 		for(int i=0;i<n;i++) {
 			int k=3;
-			
 			//spaces
 			for(int j=0;j<n-i-1;j++) {
 				System.out.print(" ");
