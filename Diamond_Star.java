@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Diamond_Star {
 
-	public static void main(String[] args) {
+	public static void main(String[] arg) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		//number of rows
