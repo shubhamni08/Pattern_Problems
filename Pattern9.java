@@ -1,7 +1,6 @@
 package pattern_Problems;
 
 public class Pattern9 {
-
 	public static void main(String[] args) {
 		int n = 10;
 		int n1 = n/2;
