@@ -2,7 +2,7 @@ package pattern_Problems;
 
 public class Pattern10 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {wqw
 		int n = 7;
 		int n1 = n/2;
 		//first half
