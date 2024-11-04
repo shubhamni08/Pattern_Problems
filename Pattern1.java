@@ -15,6 +15,7 @@ public class Pattern1 {
 		}
 	}
 }
+
 //*
 //**
 //***
