@@ -8,6 +8,7 @@ public class Diamond_Star {
 		Scanner sc = new Scanner(System.in);
 		
 		int n = sc.nextInt();
+		
 		//number of rows
 		for(int i=0;i<n;i++) {
 			//spaces
