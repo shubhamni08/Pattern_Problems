@@ -1,6 +1,7 @@
 package pattern_Problems;
 
 public class Pattern11 {
+	
 //			i	star 
 //*****		0	 5    	condition= i=0 OR i=4 for rows print whole row star 
 //*   *  	1 	 1   			   j=0 OR j=4 for column print stars
