@@ -3,11 +3,8 @@ package pattern_Problems;
 public class Pattern9 {
 	
 	public static void main(String[] args) {
-		
 		int n = 10;
-		
 		int n1 = n/2;
-		
 		System.out.println(n1);
 		int k=n1+1;
 //		System.out.println(k);
